@@ -1,4 +1,8 @@
-# 🗣️ First Steps in Large Language Models
+<div align="center">
+  <h1>🗣️ First Steps in Large Language Models</h1>
+  <img width="468" alt="Picture1" src="https://github.com/raghadalsaif/AutoGraph/assets/107502187/b73bd729-89d9-463c-b6ab-2e63bbfc85ca">
+</div>
+
 
 This file will contain your initial steps towards understanding Large Language Models (LLMs), including:
 
@@ -23,4 +27,7 @@ This file will contain your initial steps towards understanding Large Language M
 
 # Developers 👩🏼‍💻
 - [RAGHAD ALSAIF](https://github.com/raghadalsaif)
+
+
+
 
