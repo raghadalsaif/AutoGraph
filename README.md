@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>#AutoGraph project</h1>
+  <h1>#AutoGraph </h1>
   <img width="733" alt="Screenshot" src="https://github.com/raghadalsaif/AutoGraph/assets/107502187/510bac12-de9a-49e1-8afb-70ddb76fc431">
 </div>
 
 # Solution Concept
-"AutoGraph" will be a small project that takes user input (e.g., text, articles, research papers) and converts it into a presentation in a structured JSON file.
+"AutoGraph" an innovative website application that streamlines presentation creation for any uploaded text file (Artcile, research paper, etc) automatically through the use of LLM. Also, It boasts a user-friendly manual chart generation feature, enabling users to effortlessly choose chart types, input data, and customize colors.
 
 # Technologies & Tools 🛠️
 - Jupyter Lab
