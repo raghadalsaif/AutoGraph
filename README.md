@@ -10,7 +10,11 @@
 - Jupyter Lab
 - OLLAMA
 - NLTK
-- OpenAI API
+- Reveal JS
+- FireBase
+- Formspree
+- Postman
+- Google devloper charts
 
 # Project Pipeline
 AutoGraph pipeline consists of three primary stages: 
